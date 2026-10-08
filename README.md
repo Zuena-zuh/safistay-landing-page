@@ -47,7 +47,7 @@ Property names, testimonials, contact details, and SafiStay social destinations 
 
 The photos use Unsplash demo URLs and can be replaced with properly licensed client/brand photography.
 
-## AppRo8 checklist
+## checklist 
 - [x] Responsive landing page
 - [x] Header/navigation
 - [x] Hero
